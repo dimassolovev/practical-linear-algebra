@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e0bf9ff-35ab-41b4-b197-1a68fa8e76ed" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/lab1/lab1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/lab1.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="2e0bf9ff-35ab-41b4-b197-1a68fa8e76ed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1726827183496</updated>
       <workItem from="1726827190503" duration="7731000" />
-      <workItem from="1726837608307" duration="1376000" />
+      <workItem from="1726837608307" duration="1783000" />
     </task>
     <servers />
   </component>
