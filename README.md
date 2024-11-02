@@ -2,8 +2,12 @@
 
 ## Лабораторная работа 1
 
-* [Кодирование и шифрование](https://github.com/dimassolovev/practical-linear-algebra/tree/master/lab1)
+* [Кодирование и шифрование](lab1/lab1.ipynb)
 
 ## Лабораторная работа 2
 
-* [2-D преобразования](https://github.com/dimassolovev/practical-linear-algebra/tree/master/lab2)
+* [2-D преобразования](lab2/lab2.ipynb)
+
+## Лабораторная работа 3
+
+* [3-D преобразования](lab3/lab3.ipynb)
